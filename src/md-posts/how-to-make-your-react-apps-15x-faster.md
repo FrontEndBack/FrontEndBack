@@ -2,7 +2,7 @@ Without any modifications, React is really fast as-is. There are, however, a few
 
 **Editor's Note:**
 
-Check out our upcoming [React University Workshops](http://www.reactuniversity.com/training). Our next workshop, [React 2016](http://www.reactuniversity.com/react-2016 "React 2016"), will be held on April 23 at [Microsoft Reactor](http://microsoftreactor.com/) in San Francisco and will offer a deep dive into creating modern Single-Page Applications (SPA) using React, Redux, React Router, Immutable.js, and Webpack. Also, if you're interested in learning the basics about what it takes to be a Data Visualization Engineer, check out [React and D3](http://www.reactuniversity.com/react-and-d3).
+Check out our upcoming [FrontEndBack Workshops](http://www.frontendback.io/training). Our next workshop, [React 2016](http://www.frontendback.io/react-2016 "React 2016"), will be held on April 23 at [Microsoft Reactor](http://microsoftreactor.com/) in San Francisco and will offer a deep dive into creating modern Single-Page Applications (SPA) using React, Redux, React Router, Immutable.js, and Webpack. Also, if you're interested in learning the basics about what it takes to be a Data Visualization Engineer, check out [React and D3](http://www.frontendback.io/react-and-d3).
 
 ## Introduction
 

@@ -11,8 +11,8 @@ export default function Header() {
     <div className="app-header">
       <div className="row">
         <div className="app-header--logo-container medium-4 columns">
-          <img src={require('./assets/react_university_icon_alt_light.svg')} alt="React University Logo" />
-          <span className="app-header--name"><Link to="/">React University</Link></span>
+          <img src={require('./assets/frontendback_icon_alt_light.svg')} alt="FrontEndBack Logo" />
+          <span className="app-header--name"><Link to="/">FrontEndBack</Link></span>
         </div>
         <BurgerMenu />
         <DesktopMenu />

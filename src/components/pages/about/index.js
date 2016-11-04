@@ -12,7 +12,7 @@ export default function About() {
        <div className="row">
         <div className="small-10 small-offset-1 large-8 large-offset-2 columns">
           <p>
-          React University was created to help JavaScript engineers learn new
+          FrontEndBack was created to help JavaScript engineers learn new
           skills from book authors, community leaders, and open-source
           contributors. We are commited to providing the best learning
           experience for our students via our workshops, videos, and blog posts.
